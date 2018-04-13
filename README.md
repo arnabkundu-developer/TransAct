@@ -4,7 +4,7 @@
 - Smooth Transition Effect
 - Transition Speed Control for custom animation
 
-## Using
+## Setup
 Add this dependency  to project level Build Gradle
 ```groovy
 	allprojects {
@@ -21,3 +21,6 @@ Add this dependency  to app level Build Gradle
 	   compile 'com.github.arnabkundu-developer:TransAct:1.0'
 	}
 ```
+
+## Using
+
