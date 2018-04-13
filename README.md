@@ -1,3 +1,5 @@
+[![](https://jitpack.io/v/arnabkundu-developer/TransAct.svg)](https://jitpack.io/#arnabkundu-developer/TransAct)
+
 # TransAct - Activity Transition Library for Android
 
 - Simple Code
