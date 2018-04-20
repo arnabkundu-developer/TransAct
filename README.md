@@ -20,7 +20,7 @@ Add this dependency  to project level Build Gradle
 Add this dependency  to app level Build Gradle
 ```groovy
 	dependencies {
-	   compile 'com.github.arnabkundu-developer:TransAct:1.0'
+	   compile 'com.github.kunduarnab:TransAct:1.0'
 	}
 ```
 
