@@ -26,4 +26,21 @@ Add this dependency  to app level Build Gradle
 ```
 
 ## Using
+After startActivity() just add any of the line to animate through activities
+```java
+TransAct.slideLeft(this);
+TransAct.slideRight(this);
+TransAct.slideDown(this);
+TransAct.slideUp(this);
+TransAct.zoom(this);
+TransAct.windmill(this);
+TransAct.spin(this);
+TransAct.diagonal(this);
+TransAct.split(this);
+TransAct.shrink(this);
+TransAct.card(this);
+TransAct.inAndOut(this);
+TransAct.swipeLeft(this);
+TransAct.swipeRight(this);
+```
 
